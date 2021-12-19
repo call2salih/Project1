@@ -1,5 +1,5 @@
 public class Hello {
 	public static void main(String[] args) {
-	System.out.PrintIn ("Hello, World");
+	System.out.Println ("Hello, World");
 	}
 }
